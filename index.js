@@ -1,1 +1,3 @@
-add (1, 20)
+var a = 10
+var b = 5
+add (a,b)
