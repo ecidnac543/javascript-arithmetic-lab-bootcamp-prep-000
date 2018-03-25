@@ -1,5 +1,4 @@
 function add(a, b)
 {
-  a + b
+  return number
 }
-console.log(number)
